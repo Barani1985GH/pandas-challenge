@@ -15,7 +15,7 @@ Open folder PyCitySchools
 Open PyCitySchools_starter.ipynb 
 Run PyCitySchools_starter.ipynb by activating jupyter notebook from the terminal. The ipynb file includes comments for ease of understanding.
 Alternatively, run PyCitySchools_starter.ipynb in visual studio to review the code and comments.
-Use Terminal to run the python file and see the results. 
+Use Terminal to run the python file to see the results and review the trends observed on each findings
 
 Report about the school performance:
 ===================================
