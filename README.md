@@ -17,7 +17,7 @@ Run PyCitySchools_starter.ipynb by activating jupyter notebook from the terminal
 Alternatively, run PyCitySchools_starter.ipynb in visual studio to review the code and comments.
 Use Terminal to run the python file and see the results. 
 
-Trends about the school performance:
+Report about the school performance:
 ===================================
 Open module_4_challenge_Report_Barani.docx to read the report and trends derived based on the findings about local school performance.
 
